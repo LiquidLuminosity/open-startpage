@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Launch Edge",
+            "request": "launch",
+            "type": "msedge",
+            "url": "file:///C:/Users/CW232021/Downloads/open-startpage/open-startpage/dist/index.html",
+            "webRoot": "${workspaceFolder}"
+        },
+    ]
+}
