@@ -1,6 +1,6 @@
 :root {
   --color-bg: #031629;
-  --color-fg: #8EE4AF;
+  --color-fg: #7ecc9c;
   --color-link: #8f9191;
   --color-link-visited: #668f8b;
   --color-link-hover: #fa7921;
@@ -11,7 +11,7 @@ html,
 body {
   background: var(--color-bg);
   color: var(--color-fg);
-  font-family: "Fira Code", monospace;
+  font-family: "Quicksand", sans-serif;
   height: 100%;
   width: 100%;
   margin: 0;
